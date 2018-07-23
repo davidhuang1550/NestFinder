@@ -4,13 +4,13 @@ Conventions :
 
 variable names :
 
-	must be camel case for example:
+	must be camel case and must contain underscore(_) prefix, for example : for example:
 	
-	mapsActivityMap
+	_mapsActivityMap
 
 Function naming conventions :
 
-	must contain underscore(_) suffix, for example :
+	must be CamelCase :
 
 	CreateMap_
 
