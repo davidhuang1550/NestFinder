@@ -38,6 +38,10 @@ GIT CONVENTIONS :
 	- never push directly to master repo
 	- create branch for each task/bug/feature
 	- must create PR
+	- when creating branch, please create an issue and use the issue number as the branch unique ID, for example:
+		under issues right now there is one issue please create branch from following convention :
+		branch (sdc stands for Soutrik David  Company)
+			- feature/sdc-1 
 
 
 
