@@ -12,7 +12,7 @@ Function naming conventions :
 
 	must be CamelCase :
 
-	CreateMap_
+	CreateMap()
 
 
 Layouts :
