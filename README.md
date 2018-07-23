@@ -33,4 +33,11 @@ Layouts :
 			-history item
 			-histroy view
 
+GIT CONVENTIONS :
+
+	- never push directly to master repo
+	- create branch for each task/bug/feature
+	- must create PR
+
+
 
